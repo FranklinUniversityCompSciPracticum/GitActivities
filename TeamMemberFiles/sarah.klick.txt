@@ -1,4 +1,0 @@
-Sarah Klick
-Call me Sarah
-I'm in 394
-Tech stack: Java, MySQL/PostgreSQL, JS, HTML, CSS

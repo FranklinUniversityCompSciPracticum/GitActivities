@@ -1,0 +1,4 @@
+Sarah Klick
+Call me Sarah
+I'm in 394
+Tech stack: Java, MySQL, JS. I also like MongoDB, Node.js, and Express.

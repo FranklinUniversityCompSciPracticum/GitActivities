@@ -108,3 +108,4 @@ To complete the activity, you need to update your local branch to resolve the me
 
     Now that you merged the updated master, and pushed to remote, the pull request should no longer show any conflicts.  Merge the pull request to complete the activity.
 
+Purposely creating merge conflict - step 2/2.

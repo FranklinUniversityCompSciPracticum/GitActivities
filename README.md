@@ -6,3 +6,5 @@ Walk through the assignments to gain a solid understanding of working with GIT.
 
 ## Making Changes ##
 Change made by Megan White
+
+## Making Changes for Activity 3 ##

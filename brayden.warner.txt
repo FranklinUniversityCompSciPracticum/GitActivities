@@ -1,0 +1,5 @@
+Brayden Warner
+Please call me Brayden
+Im in section 394
+I prefer Java and SQL. I can do any frontend except PHP. I like Spring Boot (MVC) too.
+I hope I can practice more in a Spring Boot framework this semester if at all possible!

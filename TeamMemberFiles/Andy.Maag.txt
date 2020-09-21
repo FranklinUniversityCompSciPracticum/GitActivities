@@ -1,0 +1,6 @@
+Andrew Maag
+Andy, please
+Section number 294
+Preferred tech stack? BASIC? COBOL? :-)
+	Actually: VueJS, HTML, or SQL
+I usually use Git through a GUI, like at work we use JetBrain's GoLand. Learning the bash commands is kinda fun.

@@ -3,3 +3,5 @@ Call me Aaron
 I am a COMP 294 student (394 next term and 495 next summer)
 My preferred tech stack is .Net/C#
 I look forward to learning and growing as a software engineer
+
+This line is to cause a conflict for Activity 3

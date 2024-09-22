@@ -5,5 +5,10 @@ I prefer Java, Java Spring or Spring Boot, no preference on flavor of SQL. I am 
 I'm really bad at taking PTO, but I plan on taking some time off around Thanksgiving and Christmas.
 
 
-
+--Modification for Activity 3
 --This is my update for step 2, which should create the merge conflict.
+--I used the conflict resolution guide provided by GitHub to walk through cleaning up the conflict.
+
+Reference Link
+https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line
+

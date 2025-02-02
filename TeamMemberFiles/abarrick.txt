@@ -1,0 +1,6 @@
+Fav quote: 
+    "It's not about the destination, it's about the journey. 
+    Everything has an end except bananas that have two."
+    -Zy0x
+
+Preferred tech stack: Java

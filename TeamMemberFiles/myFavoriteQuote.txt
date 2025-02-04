@@ -1,0 +1,5 @@
+Favorite quote: "A journey of a thousand miles begins with a single step."
+
+Author: Lau Tzu
+
+My preferred tech stack is Java.

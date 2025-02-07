@@ -147,7 +147,7 @@ For the first part of this activity, you need to setup your own repository.  To 
     
     ![Use the dropdown to select main, then hit the update button](images/Activity0/Image0005.png) 
 
-You have now completed the activity where you have taken an existing repository and placed it under your own repository at github, with no connection to the original repository.
+You have now completed the activity where you have taken an existing repository and placed it under your own repository at github, with no connection to the original repository. 3
 
 
 

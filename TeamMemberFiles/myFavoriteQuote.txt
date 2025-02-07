@@ -1,0 +1,3 @@
+- My favorite quote is I am Batman.
+- Batman said it in the Batman movie.
+- I am not too experienced yet but I have been enjoying CSS, JavaScript, and HTML lately.

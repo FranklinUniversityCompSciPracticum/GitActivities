@@ -1,0 +1,3 @@
+- I am batman
+- Batman would say it in the batman movies
+- Although I don't have the most experience, I have been having fun with HTML/CSS/JavaScript recently

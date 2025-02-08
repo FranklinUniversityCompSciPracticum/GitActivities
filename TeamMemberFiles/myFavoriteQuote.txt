@@ -1,0 +1,5 @@
+Favorite Quote: "Write it on your heart that every day is the best day in the year. He is rich who owns the day, and no one owns the day who allows it to be invaded with fret and anxiety. Finish every day and be done with it. You have done what you could. Some blunders and absurdities, no doubt crept in. Forget them as soon as you can, tomorrow is a new day; begin it well and serenely, with too high a spirit to be cumbered with your old nonsense. This new day is too dear, with its hopes and invitations, to waste a moment on the yesterdays"
+
+By: Ralph Waldo Emerson
+
+Preferred Tech Stack: Java

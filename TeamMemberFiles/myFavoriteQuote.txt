@@ -1,4 +1,4 @@
 
     Favorite Quote: "Education is the passport to the future, for tomorrow belongs to those who prepare for it today."
-    Who said it: Malcom X
+    Who said it: Malcom X!
     What is your preferred tech stack (Java/MySql/Sql/Pos/React/HTML/CSS/JavaScript)

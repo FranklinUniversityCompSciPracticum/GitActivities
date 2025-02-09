@@ -1,0 +1,3 @@
+Hello Comp394!
+
+This is my commit message for Activity 1

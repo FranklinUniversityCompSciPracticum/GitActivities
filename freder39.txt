@@ -1,0 +1,13 @@
+Because I don't want this public file to contain too much info, I will just list my first name.
+
+My name is Christopher.
+But please call me just Chris. Christopher is something only my parents call me by when I'm in trouble!
+I'm currently a 394 student.
+I've worked as a software developer for about two and a half years professionally before going back to working as an escalation point for Help Desk.
+I have been exposed to a plethora of languages and databases.
+I know how to code in Java, Python, JavaScript, and a little bit of Powershell and C.
+I've also worked with several different databases such as MySQL, MicroSoft SQL Server, and MongoDB.
+I've come to enjoy working in all of those databases and don't have a preference. 
+I do think that I'm above average when it comes to writing queries and reports.
+I base this on the fact that I'm familiar with concepts such as multiple joins, case statements, etc.
+I don't have any vacation plans this semester, but I do consistently work 5 to 15 hours or more of overtime a week.

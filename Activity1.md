@@ -58,7 +58,7 @@ The base repository is where you forked, and your repository is where you will d
 
 2. Make a quick change to see how all of this works.
 
-    It doesn't matter what you do here, just add a file or modify an existing file, then save it.
+    It doesn't matter what you do here, just add a file or modify an existing file, then save it. Saved it.
 
     Once the file is saved, make sure you have the changes ready with a git status command: 
 
@@ -135,3 +135,5 @@ At the end of this activity, you should have completed the following:
 *   You pushed the local changes to your remote repo.
 
 *   You have opened a PR to the base repository.  Leave this open as part of the week 1/2 requirements.
+
+A change that was asked for. 

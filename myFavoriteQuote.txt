@@ -1,0 +1,3 @@
+Your Favorite Quote
+Who said it (yes, it can be from a movie)
+What is your preferred tech stack (Java/Microsoft/MySql/Sql/Postgres/Vue/Angular/React/HTML/PHP)

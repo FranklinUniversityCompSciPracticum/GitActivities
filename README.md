@@ -1,6 +1,5 @@
 # Git Activities #
-This repository holds a number of activities to aid in your learning of GIT.
 
 ## Your Task ##
-Walk through the assignments to gain a solid understanding of working with GIT.
-Walk through the assignments to gain a solid understanding of working with GIT.
+Walk through--- of working with GIT. CHANGE
+Oh my god please detect the conflicts - I'm running on tears and no sleep for days now !!

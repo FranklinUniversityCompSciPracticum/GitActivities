@@ -1,0 +1,3 @@
+merge conflict task 1
+merge-1
+this is the initial commit

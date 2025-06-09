@@ -1,1 +1,1 @@
-this is a test file
+merge 1

@@ -2,4 +2,4 @@ John Doe
 Please call me John.
 I'm in section 294.
 I prefer Linux, PHP, and MySQL
-"To be or not to be." - Shakespear
+"To be or, not to be." - Hamlet

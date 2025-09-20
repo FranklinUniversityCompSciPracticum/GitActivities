@@ -1,0 +1,6 @@
+“In Greek tragedies, the Chorus never attempts to console the innocent bystander but instead, sticking to broad generalities, grieves over the fate of mankind, whose mistake was to have been born in the first place.” 
+
+	- William Maxwell, "So Long, See You Tomorrow"
+
+
+Preferred tech stack: Java/Spring Boot or Python/Django /Postgres/MongoDB/React/HTML

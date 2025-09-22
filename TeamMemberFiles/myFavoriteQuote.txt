@@ -1,0 +1,4 @@
+Favorite Quote - "Get busy living, or get busy dying." - Shawshank Redemption
+Tech Stack - Java or Python/MySql/React
+
+

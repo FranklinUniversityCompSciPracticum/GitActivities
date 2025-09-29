@@ -1,4 +1,4 @@
-# Getting Started #  
+# Getting Started #
 
 ## Your first task will be to get your computer setup for the term ##  
 

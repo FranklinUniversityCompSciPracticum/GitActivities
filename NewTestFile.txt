@@ -1,0 +1,10 @@
+test1
+<<<<<<< HEAD
+conflict activity 2
+conflict activity 2
+conflict activity 2
+=======
+merge conflict activity
+merge conflict activity
+merge conflict activity
+>>>>>>> 9c36d4e (merge conflict activity)

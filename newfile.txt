@@ -1,2 +1,3 @@
+I am just making some changes here to create a merge conflict
 I am making a change that
 directly conflicts with the first change.

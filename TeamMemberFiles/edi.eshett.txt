@@ -1,0 +1,8 @@
+Favorite quote:
+"War is the ultimate game because war is at last a forcing of the unity of existence. War is god."
+
+Character:
+Judge Holden
+
+Preferred tech-stack:
+Java(IntelliJ)/Python(PyCharm)/MySQL/Microsoft/Google/Linux

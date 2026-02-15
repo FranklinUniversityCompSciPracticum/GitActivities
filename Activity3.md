@@ -13,6 +13,13 @@ To begin, create a new branch off of master.  You can name the branch whatever y
 
     In the new branch, modify one of the existing files.  Then add and commit the changes.
 
+    (Modifying the file again for conflict demostration)
+    (Modifying the file again for conflict demostration)
+    (Modifying the file again for conflict demostration)
+    (Modifying the file again for conflict demostration)
+    (Modifying the file again for conflict demostration)
+    (Modifying the file again for conflict demostration)
+
     ```
     git commit -am "Conflict activity change 1"
     ```  

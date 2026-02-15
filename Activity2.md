@@ -1,4 +1,4 @@
-# Git Activity 2 - Work as a Team member #
+# Git Activity 2 - Work as a Team member # - Second Commit Test
 In this second activity, you'll work like you are a member of the team.  This activity will give you a good overview of how you can work with the repository while minimizing your team conflicts.
 
 ### Step 1: Complete activity 1 ###
@@ -6,7 +6,7 @@ If you have not completed activity 1, you should do that prior to this activity.
 
 1.  Use your `forked` version of the repo to complete the activity.
 
-## Task 2: Checkout a new branch ##
+## Task 2: Checkout a new branch Other Change COnflict##
 Whenever you start on a new ticket, before you begin any work, you should make sure to get the latest version of the code, then checkout a branch.
 
 In this task, you will run commands to make sure that you have the latest code and that you can do your work in the safest way possible.

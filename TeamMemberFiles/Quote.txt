@@ -1,0 +1,8 @@
+I have way too many favorite quotes to pick an absolute favorite.
+For the purposes of this, I'll go with this one...
+
+"There is nothing worse than aggressive stupidity."
+ - Johann Wolfgang von Goethe
+
+My preferred tech stack. Hmmm....
+Probably C++ using the Qt framework, with SQLite for any database needs.

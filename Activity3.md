@@ -1,3 +1,4 @@
+(I've re-changed the file for a commit conflict!!!! yippeeee!!)
 # Git Activity 3: Create and resolve a merge conflict #
 In this activity, you need to create and resolve a merge conflict.  You can do this on any of your own repositories.  If you don't have a repository, you should create one that you can work against.
 

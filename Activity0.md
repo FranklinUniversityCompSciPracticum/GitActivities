@@ -1,4 +1,4 @@
-# Git Activity 0 - Cloning a repository and using the code as your own
+# Git Activity 0 - Cloning a repository and using the code as your own (hello I've made some changes :)!)
 
 This first activity is for information only.  You will not need to complete this activity, but you may want to know how you can do this at some point.
 

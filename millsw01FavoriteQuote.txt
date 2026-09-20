@@ -1,0 +1,3 @@
+Favorite Quote: "We all make choices, but in the end, our choices make us."
+Said By: Andrew Ryan
+Preferred Tech Stack: Java
